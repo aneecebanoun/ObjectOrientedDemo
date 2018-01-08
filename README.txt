@@ -1,1 +1,0 @@
-Please refer to Modelling_Labwares_and_Containers.pdf file for the  Requirements
